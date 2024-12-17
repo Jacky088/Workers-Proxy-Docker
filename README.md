@@ -14,6 +14,10 @@
 📢 <a href="https://t.me/+ghs_XDp1vwxkMGU9" style="font-size: 15px;">交流群</a>
 </div>
 
+---
+
+> ⚠️ 提醒：Cloudflare 在2024 年 12 月 3 日已明文禁止搭建VPN和代理服务，禁止优选IP。相关服务条约查看：[Cloudflare Self-Serve Subscription Agreement](https://www.cloudflare.com/zh-cn/terms/)
+
 ## 📦 部署方式
 ### Workers 部署：
 <table>

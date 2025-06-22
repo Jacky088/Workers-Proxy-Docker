@@ -6,7 +6,7 @@
   <p align="center">
       <br>
       <i>这个项目是一个基于 Cloudflare Workers 的 Docker 镜像下载和搜索代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决镜像下载和搜索的问题。
-.</i>
+。</i>
   </p>
 </div>
 
@@ -17,6 +17,12 @@
 ---
 
 > ⚠️ 提醒：Cloudflare 在2024 年 12 月 3 日已明文禁止搭建VPN和代理服务，禁止优选IP。相关服务条约查看：[Cloudflare Self-Serve Subscription Agreement](https://www.cloudflare.com/zh-cn/terms/)
+
+<a href="https://dqzboy.github.io/proxyui/racknerd" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/dqzboy-proxy/render-vps.png" alt="高性价比海外 VPS 推荐" title="点击查看">
+</a>
+
+---
 
 ## 📦 部署方式
 ### Workers 部署：

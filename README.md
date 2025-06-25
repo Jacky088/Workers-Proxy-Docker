@@ -18,9 +18,28 @@
 
 > ⚠️ 提醒：Cloudflare 在2024 年 12 月 3 日已明文禁止搭建VPN和代理服务，禁止优选IP。相关服务条约查看：[Cloudflare Self-Serve Subscription Agreement](https://www.cloudflare.com/zh-cn/terms/)
 
-<a href="https://dqzboy.github.io/proxyui/racknerd" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/dqzboy-proxy/render-vps.png" alt="高性价比海外 VPS 推荐" title="点击查看">
-</a>
+<table style="width: 100%; table-layout: fixed;">
+    <tr>
+      <td width="50%" align="center"><b>海外服务器</b></td>
+      <td width="50%" align="center"><b>海外服务器</b></td>
+    </tr>
+    <tr>
+        <td width="50%" align="center">
+            <a href="https://dqzboy.github.io/proxyui/racknerd" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/dqzboy-proxy/1.png?raw=true" 
+                     alt="RackNerd" 
+                     style="width: 100%; height: auto; max-width: 400px; object-fit: contain;">
+            </a>
+        </td>
+        <td width="50%" align="center">
+            <a href="https://app.cloudcone.com/?ref=12690" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/dqzboy-proxy/2.png?raw=true" 
+                     alt="CloudCone" 
+                     style="width: 100%; height: auto; max-width: 400px; object-fit: contain;">
+            </a>
+        </td>
+    </tr>
+</table>
 
 ---
 
